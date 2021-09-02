@@ -36,3 +36,5 @@ Back to the lab again, yo, this whole rhapsody
 Better go capture this moment and hope it don't pass him
 
 ESTE TEXTO ES PARA PRACTICAR EL GIT STASH, Y VER QUE TAL ME VA.
+
+Mi biografia es que ando bien pendejo
