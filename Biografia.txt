@@ -11,3 +11,5 @@ En Frases de la Vida somos unos grandes aficionados al mundo del cómic y los su
 Ahora se mencionaran 1 mas:
 
 Tu tío no querría que viviéramos ni un segundo, con la venganza en nuestros corazones. Es como un veneno, cuando se apodera de ti, sin darte cuenta, te convierte en algo espantoso
+
+Hey , este curso de git estuvo super bueno, pero obviamente tengo que practicar.
